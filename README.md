@@ -1,6 +1,8 @@
 # OriginalModern
 A modern take on the original dark discord theme.
 
+Dark discord must be ON.
+
 Screenshots
 
 ![1](http://image.prntscr.com/image/b06b3012f6ee4d509abae3b40ed2976e.png)
